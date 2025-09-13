@@ -7,9 +7,11 @@ This repo contains `.sff` files for two versions of the glyphs, with and without
 Additionally, in the `src` folder, you'll find a tilemap of the glyphs without shadows, and tiles with and without shadows for all glyphs (to include unsupported glyph types in Ikemen GO at time of release).
 The tiles without shadows are `20px`, while the tiles with shadows are `26px`.
 
+![img](./src/tilemap-no-shadows.png)
+
 This release uses Kenney's ["Input Prompts Pixel 16x"](https://www.kenney.nl/assets/input-prompts-pixel-16) as a starting point for the buttons, some of the motions, and color palette cues.
 Big shout out to them for this work.
 
 These glyphs are provided under the Creative Commons Zero 1.0 license (`cc0-1.0`).
 You can freely use these assets in personal, educational and commercial projects.
-Written permission no required - crediting is appreciated but not required.
+Written permission not required - crediting is appreciated but not required.
