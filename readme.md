@@ -1,5 +1,5 @@
-# Ikemen GO Glyphs by two4teezee
-> Glyphs created for the upcoming brokenIKEMEN screenpack and for two4teezee's own website.
+# brokenIKEMEN Glyphs by two4teezee
+> Ikemen GO glyphs created for the upcoming brokenIKEMEN screenpack and for two4teezee's own website.
 ---
 This glyphs pack for Ikemen GO contains iconography for all buttons and command shorthands currently supported by Ikemen GO's glyphs feature, along with some extras not currently supported by the engine.
 
