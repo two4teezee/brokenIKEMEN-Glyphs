@@ -10,4 +10,4 @@ The tiles without shadows are `20px`, while the tiles with shadows are `26px`.
 This release uses Kenney's ["Input Prompts Pixel 16x"](https://www.kenney.nl/assets/input-prompts-pixel-16) as a starting point for the buttons, some of the motions, and color palette cues.
 Big shout out to them for this work.
 
-These glyphs are provided under the Creative Commons CC0 license.
+These glyphs are provided under the Creative Commons Zero 1.0 license (`cc0-1.0`).
